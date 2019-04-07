@@ -1,0 +1,4 @@
+baseURL = "https://daniet.github.io/my-blog/"
+languageCode = "es-co"
+title = "Daniel Andres"
+theme = "ananke"
